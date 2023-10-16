@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a passionate programmer and AI enthusiast w
 
 ## Current Focus
 
-Currently, I'm actively working on a fascinating project that combines my passion for memories, images, and AI. I'm developing an application that maps images to a 2D plane, essentially translating memories into a visual landscape using the power of AI encoding. This project is a beautiful fusion of technology and emotion, allowing me to explore the creative possibilities of AI-generated art.
+Currently, I'm actively working on a fascinating project that combines my passion for memories, images, and AI. I'm developing an application that maps images to a 2D plane, essentially translating memories into a visual landscape using the power of AI encoding. This project is a beautiful fusion of technology and emotion, allowing me to explore the creative possibilities of AI-generated art. I am also learning rust 🦀 in making a fluid simulation.
 
 ## Get in Touch
 
