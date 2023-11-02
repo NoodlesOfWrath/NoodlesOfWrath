@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Ethan Almloff, a passionate programmer and AI enthusiast with a strong background in C#, Unity, Python, and Machine Learning. I'm dedicated to exploring the exciting intersections of technology, creativity, and artificial intelligence.
+Hello there! 👋 I'm Ethan Almloff, a passionate programmer and AI enthusiast with a strong background in C#, Unity, Python, and Recently I've been sucked in by Rust. I'm dedicated to exploring the exciting intersections of technology, creativity, and artificial intelligence.
 
 ## Current Focus
 
