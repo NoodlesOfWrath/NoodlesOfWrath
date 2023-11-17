@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a passionate programmer with experience in 
 
 ## Current Focus
 
-Currently, I am working on making a lightweight fast renderer in Rust 🦀.
+Currently, I am working on an ASCII art game engine in Rust 🦀.
 
 ## Get in Touch
 
