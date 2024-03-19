@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a passionate programmer with experience in 
 
 ## Current Focus
 
-Currently, I am working on a 2d-3d renderer written in rust 🦀. [Lumenpyx](https://github.com/NoodlesOfWrath/lumenpyx)
+Currently, I am working on a 2d pixel art renderer with 3d shading written in Rust 🦀. [Lumenpyx](https://github.com/NoodlesOfWrath/lumenpyx)
 
 ## Get in Touch
 
