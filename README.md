@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a passionate programmer with experience in 
 
 ## Current Focus
 
-Currently, I am working on a 2d pixel art renderer with 3d shading written in Rust 🦀. [Lumenpyx](https://github.com/NoodlesOfWrath/lumenpyx)
+Currently, I am working on a 2d-pixel art renderer with 3d shading written in Rust 🦀, [Lumenpyx](https://github.com/NoodlesOfWrath/lumenpyx). After the next release of Lumenpyx I will be working on [ABC-Game-Engine](https://github.com/ABC-Engine/ABC-Game-Engine) and integrating my lumenpyx into it.
 
 ## Get in Touch
 
