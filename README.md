@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a dedicated programmer with experience in C
 
 ## Current Focus
 
-Currently, I am working on improving [ABC-Game-Engine](https://github.com/ABC-Engine/ABC-Game-Engine) by making a game alongside its development to weed out some issues.
+Currently, I am working on improving [ACL](https://github.com/NoodlesOfWrath/ACL), an HDL for analog. However, I don't have as much time as I would like to dedicate to ACL.
 
 ## Get in Touch
 
