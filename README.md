@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a dedicated programmer with experience in C
 
 ## Current Focus
 
-Currently, I am working on improving [ACL](https://github.com/NoodlesOfWrath/ACL), an HDL for analog. However, I don't have as much time as I would like to dedicate to ACL.
+Currently, I am working on RustRL a library that I would like to make a one-stop shop for RL in rust.
 
 ## Get in Touch
 
