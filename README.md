@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a dedicated programmer with experience in C
 
 ## Current Focus
 
-Currently, I am working on RustRL a library that I would like to make a one-stop shop for RL in rust.
+Currently, I am working on GPUDB, a GPU-powered database utilizing Rust and WGPU.
 
 ## Get in Touch
 
