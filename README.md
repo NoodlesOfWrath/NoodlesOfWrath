@@ -4,10 +4,10 @@ Hello there! 👋 I'm Ethan Almloff, a dedicated programmer with experience in C
 
 ## Current Focus
 
-Currently, I am working on GPUDB, a GPU-powered database utilizing Rust and WGPU.
+Currently, I am working on [rust_rl](https://github.com/NoodlesOfWrath/rust_rl/stargazers), a RL library for rust built on candle.
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers, AI enthusiasts, and creative minds. Whether you want to discuss coding, AI, or just chat about the latest tech trends, feel free to reach out to me through Discord @noodlesofwrath, [LinkedIn](https://www.linkedin.com/in/ethan-almloff-12312b280/), or by email at ethanalmloff@gmail.com. Let's build the future together, one line of code at a time!
+Feel free to reach out to me through Discord @noodlesofwrath, [LinkedIn](https://www.linkedin.com/in/ethan-almloff-12312b280/), or by email at ethanalmloff@gmail.com. Let's build the future together, one line of code at a time!
 
 Thanks for stopping by and happy coding! 😄🚀
