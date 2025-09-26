@@ -4,7 +4,7 @@ Hello there! 👋 I'm Ethan Almloff, a dedicated programmer with experience in C
 
 ## Current Focus
 
-Currently, I am working on [rust_rl](https://github.com/NoodlesOfWrath/rust_rl/stargazers), a RL library for rust built on candle.
+Currently, I am working on [ModuRL](https://github.com/ModuRL/ModuRL), a RL library for rust built on candle.
 
 ## Get in Touch
 
